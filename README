@@ -5,7 +5,7 @@
 Simple script to check if a URL address is cached on Google search engine. 
 
 
-Usage: iscached.py [options]
+Usage: googlecached.py [options]
 
 Options:
   -h, --help            show this help message and exit
