@@ -1,0 +1,34 @@
+ *-----------------*
+/  googlecached.py |
+|__________________*
+
+Simple script to check if a URL address is cached on Google search engine. 
+
+
+Usage: iscached.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -u <URL address>, --url=<URL address>
+                        Stores the URL address that is going to be searched on
+                        Google cache
+
+
+
+Also prints the URL address used to check if it's cached or not, which is also the URL that you should use to visit that website's cached version. 
+The following list shows the pros and cons of visiting a cached website:
+
+# Pros:
+-> It might be possible to find content that is not published on the current website anymore. For instance, web servers showing a "404 Not Found" maybe have the old content cached, so it would be possible to explore it.
+
+-> It can be used to bypass proxies, firewalls, or simply browse the webpage anonymously (as long as the "strip=1" is present in the URL address), as your system is not targeting the original web server, but the Google cache. 
+
+
+# Cons:
+-> If you mean to visit some site anonymously, or you want to bypass some proxy restrictions, and you need to have the latest content, Google cache doesn't guarantee that. The content might be old.
+
+-> For obvious reasons, browsing a cached page is not the same as browsing the original one. Anyway it might prove useful given the cases mentioned before at "Pros" section.
+ 
+
+
+
