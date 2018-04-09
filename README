@@ -21,7 +21,7 @@ The following list shows the pros and cons of visiting a cached website:
 # Pros:
 -> It might be possible to find content that is not published on the current website anymore. For instance, web servers showing a "404 Not Found" maybe have the old content cached, so it would be possible to explore it.
 
--> It can be used to bypass proxies, firewalls, or simply browse the webpage anonymously (as long as the "strip=1" is present in the URL address), as your system is not targeting the original web server, but the Google cache. 
+-> It can be used to bypass firewalls or simply browse the webpage anonymously (as long as the "strip=1" is present in the URL address), as your browser is not targeting the actual web server, but the pages cached on Google servers. 
 
 
 # Cons:
